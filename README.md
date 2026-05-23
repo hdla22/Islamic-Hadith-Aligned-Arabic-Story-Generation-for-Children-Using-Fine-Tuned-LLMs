@@ -50,8 +50,11 @@ Each adapter was trained on the same MSA children's story corpus using identical
 
 If you use this work, please cite our paper:
 
+```bibtex
 @misc{alshutayri2026islamic,
-  title       = {Islamic Hadith-Aligned Arabic Story Generation for Children Using Fine-Tuned LLMs},
-  author      = {Alshutayri, Areej and Almehmadi, Aseel and Miran, Rawnaa and Abulhadi, Hadeel and Almaashi, Fatima},
-  year        = {2026},
+  title  = {Islamic Hadith-Aligned Arabic Story Generation for Children Using Fine-Tuned LLMs},
+  author = {Alshutayri, Areej and Almehmadi, Aseel and Miran, Rawnaa and Sirdar, Hadeel and Almaashi, Fatima},
+  year   = {2026},
+  note   = {Graduation Project, University of Jeddah}
 }
+```
